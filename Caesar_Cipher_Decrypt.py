@@ -1,9 +1,7 @@
-message = "this is my secret message"
-#message = "WKLV LV PB VHFUHW PHVVDJH"
+message = "WKLV LV PB VHFUHW PHVVDJH"
 key = 3
 
-mode = "encrypt"
-#mode = "decrypt"
+mode = "decrypt"
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 translated = ''
 message = message.upper()

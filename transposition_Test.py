@@ -1,4 +1,4 @@
-import random, sys, Cipher_Structure_Transpositions, decrypt_Cipher_Structure_Transpositions
+import random, sys, transposition_Encrypt, transposition_Decrypt
 
 
 def main():
@@ -12,9 +12,8 @@ def main():
         "Test #%s : %s..." % (i + 1, message[:50])
 
         for key in range(1, len(message)):
-            if message != decrypt_Cipher_Structure_Transpositions.decryptMessage(key, Cipher_Structure_Transpositions.encryptMessage(key, message)):
-                print
-                "Mismatch with key %s and message %s" % (key, message)
+            if message != transposition_Decrypt.decryptMessage(key, transposition_Encrypt.encryptMessage(key, message)):
+                print("Mismatch with key %s and message %s" % (key, message))
                 sys.exit()
     print("Transposition cipher test passed.")
 
