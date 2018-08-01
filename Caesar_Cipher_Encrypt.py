@@ -1,4 +1,4 @@
-message = "this is my secret message"
+message = "You are the apple of my eye."
 key = 3
 
 mode = "encrypt"

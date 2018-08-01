@@ -1,32 +1,29 @@
-import math
-
+import math, pyperclip
 
 def main():
-    myMessage = "Cenoonommstmme oo snnio. s s c"
+    myMessage = 'Yteeoh yueoe  f.aa  rpm epy  l  '
     myKey = 8
-
-    ciphertext = decryptMessage(myKey, myMessage)
-
-    print(ciphertext + "|")
-
+    plaintext = decryptMessage(myKey, myMessage)
+    print(plaintext + '|')
+    pyperclip.copy(plaintext)
 
 def decryptMessage(key, message):
-    numOfColumns = int(math.ceil(len(message) / float(key)))
+    numOfColumns = math.ceil(len(message) / key)
     numOfRows = key
-    numOfShadeBoxes = (numOfColumns * numOfRows) - len(message)
+    numOfShadedBoxes = (numOfColumns * numOfRows) - len(message)
     plaintext = [''] * numOfColumns
-
     col = 0
     row = 0
     for symbol in message:
         plaintext[col] += symbol
-        col += 1
+        col += 1 # point to next column
 
-        if col == numOfColumns or col == numOfColumns - 1 and row >= numOfRows - numOfShadeBoxes:
+        if (col == numOfColumns) or (col == numOfColumns - 1
+                                     and row >= numOfRows - numOfShadedBoxes):
             col = 0
             row += 1
+
     return ''.join(plaintext)
 
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

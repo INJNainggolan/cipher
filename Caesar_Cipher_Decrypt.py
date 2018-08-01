@@ -1,4 +1,4 @@
-message = "WKLV LV PB VHFUHW PHVVDJH"
+message = "BRX DUH WKH DSSOH RI PB HBH."
 key = 3
 
 mode = "decrypt"

@@ -1,6 +1,3 @@
-# Vigenere Cipher Dictionary Hacker
-# http://inventwithpython.com/hacking (BSD Licensed)
-
 import detectEnglish, vigenere_Cipher_Decrypt, pyperclip
 
 def main():

@@ -1,4 +1,4 @@
-message = "Three can keep a secret,if two of them are dead."
+message = "You are the apple of my eye."
 translated = ''
 
 i = len(message) - 1

@@ -8,11 +8,11 @@ def main():
         message = list(message)
         random.shuffle(message)
         message = ''.join(message)
-        print
-        "Test #%s : %s..." % (i + 1, message[:50])
+        print("Test #%s : %s..." % (i + 1, message[:50]))
 
         for key in range(1, len(message)):
-            if message != transposition_Decrypt.decryptMessage(key, transposition_Encrypt.encryptMessage(key, message)):
+            if message != transposition_Decrypt.decryptMessage\
+                        (key, transposition_Encrypt.encryptMessage(key, message)):
                 print("Mismatch with key %s and message %s" % (key, message))
                 sys.exit()
     print("Transposition cipher test passed.")

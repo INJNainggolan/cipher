@@ -1,14 +1,9 @@
-# Vigenere Cipher (Polyalphabetic Substitution Cipher)
-# http://inventwithpython.com/hacking (BSD Licensed)
-
 import pyperclip
 
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 def main():
-    # This text can be copy/pasted from http://invpy.com/vigenereCipher.py
-
-    myMessage = """tzqe wn mq aqqmel uqgnaym"""
+    myMessage = """Ygc mfz tzm mdklw wr at eqm. """
     myKey = 'ASIMOV'
     myMode = 'decrypt' # set to 'encrypt' or 'decrypt'
 
@@ -23,17 +18,14 @@ def main():
     print()
     print('The message has been copied to the clipboard.')
 
-
 def encryptMessage(key, message):
     return translateMessage(key, message, 'encrypt')
-
 
 def decryptMessage(key, message):
     return translateMessage(key, message, 'decrypt')
 
-
 def translateMessage(key, message, mode):
-    translated = [] # stores the encrypted/decrypted message string
+    translated = []
 
     keyIndex = 0
     key = key.upper()
@@ -63,9 +55,6 @@ def translateMessage(key, message, mode):
 
     return ''.join(translated)
 
-
-# If vigenereCipher.py is run (instead of imported as a module) call
-# the main() function.
 if __name__ == '__main__':
     main()
 

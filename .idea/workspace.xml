@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e6fca31-2542-4d9d-95da-06c6043c8925" name="Default" comment="" />
+    <list default="true" id="8e6fca31-2542-4d9d-95da-06c6043c8925" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/freqAnalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vigenereHacker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caesar_Cipher_Brute_force.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar_Cipher_Brute_force.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caesar_Cipher_Decrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar_Cipher_Decrypt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caesar_Cipher_Encrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar_Cipher_Encrypt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectEnglish.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectEnglish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverseCipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/reverseCipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transposition_Cipher_Hacker.py" beforeDir="false" afterPath="$PROJECT_DIR$/transposition_Cipher_Hacker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transposition_Decrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/transposition_Decrypt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transposition_Encrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/transposition_Encrypt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transposition_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/transposition_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigenere_Cipher_Decrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/vigenere_Cipher_Decrypt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigenere_Cipher_Encrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/vigenere_Cipher_Encrypt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vigenere_Dictionary_Hacker.py" beforeDir="false" afterPath="$PROJECT_DIR$/vigenere_Dictionary_Hacker.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,28 +27,31 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/cipher$makeRsaKeys.coverage" NAME="makeRsaKeys Coverage Results" MODIFIED="1528384558759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$transposition_Decrypt.coverage" NAME="transposition_Decrypt Coverage Results" MODIFIED="1528381899468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$rsaCipher.coverage" NAME="rsaCipher Coverage Results" MODIFIED="1528384673991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$reverseCipher.coverage" NAME="reverseCipher Coverage Results" MODIFIED="1528378976955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$transposition_Cipher_Hacker.coverage" NAME="transposition_Cipher_Hacker Coverage Results" MODIFIED="1528382541532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$py_test_in_test_Cipher_Structure_Transpositions_py.coverage" NAME="py.test in test_Cipher_Structure_Transpositions.py Coverage Results" MODIFIED="1525267791291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$test_Cipher_Structure_Transpositions.coverage" NAME="test_Cipher_Structure_Transpositions Coverage Results" MODIFIED="1527727475455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$vigenereHacker.coverage" NAME="vigenereHacker Coverage Results" MODIFIED="1528466929020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$Caesar_Cipher_Encrypt.coverage" NAME="Caesar_Cipher_Encrypt Coverage Results" MODIFIED="1528425154715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cipher$Caesar_cipher.coverage" NAME="Caesar_cipher Coverage Results" MODIFIED="1525266101700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cipher$Cipher_Structure_Transpositions_text.coverage" NAME="Cipher_Structure_Transpositions_text Coverage Results" MODIFIED="1527729173885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$Brute_force_Caesar.coverage" NAME="Brute_force_Caesar Coverage Results" MODIFIED="1527727533918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$V.coverage" NAME="V Coverage Results" MODIFIED="1528334797849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$vigenere_Cipher_Encrypt.coverage" NAME="vigenere_Cipher_Encrypt Coverage Results" MODIFIED="1528429787898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$Vigenere.coverage" NAME="Vigenere Coverage Results" MODIFIED="1528334487310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$Caesar_Cipher_Brute_force.coverage" NAME="Caesar_Cipher_Brute_force Coverage Results" MODIFIED="1528422636838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$Caesar_Cipher_Decrypt.coverage" NAME="Caesar_Cipher_Decrypt Coverage Results" MODIFIED="1528425527969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$transposition_Decrypt.coverage" NAME="transposition_Decrypt Coverage Results" MODIFIED="1528425270549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$rsaCipher.coverage" NAME="rsaCipher Coverage Results" MODIFIED="1528384673991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$reverseCipher.coverage" NAME="reverseCipher Coverage Results" MODIFIED="1528420081666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$transposition_Cipher_Hacker.coverage" NAME="transposition_Cipher_Hacker Coverage Results" MODIFIED="1528426574987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$py_test_in_test_Cipher_Structure_Transpositions_py.coverage" NAME="py.test in test_Cipher_Structure_Transpositions.py Coverage Results" MODIFIED="1525267791291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$test_Cipher_Structure_Transpositions.coverage" NAME="test_Cipher_Structure_Transpositions Coverage Results" MODIFIED="1527727475455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cipher$Cipher_Structure_Transpositions.coverage" NAME="Cipher_Structure_Transpositions Coverage Results" MODIFIED="1525267328403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cipher$decrypt_Cipher_Structure_Transpositions.coverage" NAME="decrypt_Cipher_Structure_Transpositions Coverage Results" MODIFIED="1525267439292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$Brute_force_Caesar.coverage" NAME="Brute_force_Caesar Coverage Results" MODIFIED="1527727533918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cipher$vigenereCipher.coverage" NAME="vigenereCipher Coverage Results" MODIFIED="1528381203432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cipher$Cipher_Structure_Transpositions_decrypt.coverage" NAME="Cipher_Structure_Transpositions_decrypt Coverage Results" MODIFIED="1527729656667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$V.coverage" NAME="V Coverage Results" MODIFIED="1528334797849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$vigenere_Cipher_Decrypt.coverage" NAME="vigenere_Cipher_Decrypt Coverage Results" MODIFIED="1528381162875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$vigenere_Cipher_Encrypt.coverage" NAME="vigenere_Cipher_Encrypt Coverage Results" MODIFIED="1528382797049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$Vigenere.coverage" NAME="Vigenere Coverage Results" MODIFIED="1528334487310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$Caesar_Cipher_Brute_force.coverage" NAME="Caesar_Cipher_Brute_force Coverage Results" MODIFIED="1528381819412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$vigenere_Cipher_Decrypt.coverage" NAME="vigenere_Cipher_Decrypt Coverage Results" MODIFIED="1528429524085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cipher$Caesar_Cipher.coverage" NAME="Caesar_Cipher Coverage Results" MODIFIED="1528381506816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$transposition_Encrypt.coverage" NAME="transposition_Encrypt Coverage Results" MODIFIED="1528381882013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$vigenere_Dictionary_Hacker.coverage" NAME="vigenere_Dictionary_Hacker Coverage Results" MODIFIED="1528384022867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cipher$transposition_Test.coverage" NAME="transposition_Test Coverage Results" MODIFIED="1528381942563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$transposition_Encrypt.coverage" NAME="transposition_Encrypt Coverage Results" MODIFIED="1528425405675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$vigenere_Dictionary_Hacker.coverage" NAME="vigenere_Dictionary_Hacker Coverage Results" MODIFIED="1528429955911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cipher$transposition_Test.coverage" NAME="transposition_Test Coverage Results" MODIFIED="1528439848452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="cipher" />
@@ -42,8 +61,8 @@
       <file leaf-file-name="transposition_Cipher_Hacker.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/transposition_Cipher_Hacker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <state>
+              <caret column="54" selection-start-column="54" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -51,17 +70,39 @@
       <file leaf-file-name="transposition_Test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/transposition_Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="detectEnglish.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/detectEnglish.py">
+      <file leaf-file-name="vigenereHacker.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vigenereHacker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+            <state relative-caret-position="578">
+              <caret line="258" column="10" lean-forward="true" selection-start-line="258" selection-start-column="10" selection-end-line="258" selection-end-column="10" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#467#2880#0" />
+                <element signature="e#2929#4182#0" />
+                <element signature="e#4216#4868#0" />
+                <element signature="e#4901#4912#0" />
+                <element signature="e#4957#6140#0" />
+                <element signature="e#6183#7116#0" />
+                <element signature="e#7172#7768#0" />
+                <element signature="e#7838#10792#0" />
+                <element signature="e#10829#12377#0" />
+                <element signature="e#12380#12448#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="freqAnalysis.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/freqAnalysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -69,8 +110,8 @@
       <file leaf-file-name="vigenere_Cipher_Encrypt.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vigenere_Cipher_Encrypt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -78,44 +119,35 @@
       <file leaf-file-name="vigenere_Dictionary_Hacker.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vigenere_Dictionary_Hacker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state>
+              <caret column="56" selection-start-column="56" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="makeRsaKeys.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/makeRsaKeys.py">
+      <file leaf-file-name="reverseCipher.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reverseCipher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state>
+              <caret column="15" selection-start-column="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rsaCipher.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rsaCipher.py">
+      <file leaf-file-name="Caesar_Cipher_Brute_force.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Caesar_Cipher_Brute_force.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2532">
-              <caret line="159" column="10" selection-start-line="159" selection-start-column="10" selection-end-line="159" selection-end-column="10" />
+            <state>
+              <caret column="40" selection-start-column="40" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rabinMiller.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rabinMiller.py">
+      <file leaf-file-name="transposition_Encrypt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transposition_Encrypt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cryptomath.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cryptomath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -123,8 +155,8 @@
       <file leaf-file-name="vigenere_Cipher_Decrypt.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vigenere_Cipher_Decrypt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="85">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -141,6 +173,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mode</find>
+      <find>vigenere</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,19 +193,25 @@
         <option value="$PROJECT_DIR$/VigenereD.py" />
         <option value="$PROJECT_DIR$/Vigenere.py" />
         <option value="$PROJECT_DIR$/V.py" />
-        <option value="$PROJECT_DIR$/reverseCipher.py" />
         <option value="$PROJECT_DIR$/vigenereCipher.py" />
-        <option value="$PROJECT_DIR$/vigenere_Cipher_Encrypt.py" />
-        <option value="$PROJECT_DIR$/vigenere_Cipher_Decrypt.py" />
-        <option value="$PROJECT_DIR$/Caesar_Cipher_Decrypt.py" />
-        <option value="$PROJECT_DIR$/Caesar_Cipher_Encrypt.py" />
-        <option value="$PROJECT_DIR$/detectEnglish.py" />
-        <option value="$PROJECT_DIR$/transposition_Cipher_Hacker.py" />
-        <option value="$PROJECT_DIR$/vigenere_Dictionary_Hacker.py" />
         <option value="$PROJECT_DIR$/makeRsaKeys.py" />
         <option value="$PROJECT_DIR$/rabinMiller.py" />
         <option value="$PROJECT_DIR$/cryptomath.py" />
         <option value="$PROJECT_DIR$/rsaCipher.py" />
+        <option value="$PROJECT_DIR$/reverseCipher.py" />
+        <option value="$PROJECT_DIR$/Caesar_Cipher_Encrypt.py" />
+        <option value="$PROJECT_DIR$/Caesar_Cipher_Decrypt.py" />
+        <option value="$PROJECT_DIR$/Caesar_Cipher_Brute_force.py" />
+        <option value="$PROJECT_DIR$/transposition_Decrypt.py" />
+        <option value="$PROJECT_DIR$/transposition_Encrypt.py" />
+        <option value="$PROJECT_DIR$/detectEnglish.py" />
+        <option value="$PROJECT_DIR$/transposition_Cipher_Hacker.py" />
+        <option value="$PROJECT_DIR$/vigenere_Cipher_Decrypt.py" />
+        <option value="$PROJECT_DIR$/vigenere_Cipher_Encrypt.py" />
+        <option value="$PROJECT_DIR$/vigenere_Dictionary_Hacker.py" />
+        <option value="$PROJECT_DIR$/transposition_Test.py" />
+        <option value="$PROJECT_DIR$/freqAnalysis.py" />
+        <option value="$PROJECT_DIR$/vigenereHacker.py" />
       </list>
     </option>
   </component>
@@ -185,7 +224,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="827" />
@@ -231,8 +270,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rsaCipher">
-    <configuration name="makeRsaKeys" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.vigenereHacker">
+    <configuration name="transposition_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cipher" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,13 +284,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/makeRsaKeys.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transposition_Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="rsaCipher" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="vigenereHacker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cipher" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,13 +303,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rsaCipher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vigenereHacker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="transposition_Cipher_Hacker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="vigenere_Cipher_Decrypt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cipher" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +322,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transposition_Cipher_Hacker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vigenere_Cipher_Decrypt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,19 +367,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.transposition_Cipher_Hacker" />
+      <item itemvalue="Python.transposition_Test" />
       <item itemvalue="Python.vigenere_Cipher_Encrypt" />
+      <item itemvalue="Python.vigenere_Cipher_Decrypt" />
       <item itemvalue="Python.vigenere_Dictionary_Hacker" />
-      <item itemvalue="Python.makeRsaKeys" />
-      <item itemvalue="Python.rsaCipher" />
+      <item itemvalue="Python.vigenereHacker" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.rsaCipher" />
-        <item itemvalue="Python.makeRsaKeys" />
+        <item itemvalue="Python.vigenereHacker" />
+        <item itemvalue="Python.transposition_Test" />
         <item itemvalue="Python.vigenere_Dictionary_Hacker" />
         <item itemvalue="Python.vigenere_Cipher_Encrypt" />
-        <item itemvalue="Python.transposition_Cipher_Hacker" />
+        <item itemvalue="Python.vigenere_Cipher_Decrypt" />
       </list>
     </recent_temporary>
   </component>
@@ -363,23 +402,22 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="827" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="827" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3219178" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9931507" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49824563" visible="true" weight="0.18240343" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49824563" visible="true" weight="0.18669528" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5017544" side_tool="true" weight="0.16165951" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" sideWeight="0.5017544" side_tool="true" weight="0.16165951" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32876712" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,6 +425,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
     </layout>
   </component>
@@ -402,25 +441,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/transposition_Decrypt.py">
+    <entry file="file://$PROJECT_DIR$/vigenere_Cipher_Decrypt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/transposition_Test.py">
+    <entry file="file://$PROJECT_DIR$/vigenereHacker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V.py" />
-    <entry file="file://$PROJECT_DIR$/Caesar_Cipher_Encrypt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="4318">
+          <caret line="255" column="13" selection-start-line="255" selection-start-column="5" selection-end-line="255" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#467#2880#0" />
+            <element signature="e#2929#4182#0" />
+            <element signature="e#4216#4868#0" />
+            <element signature="e#4901#4912#0" />
+            <element signature="e#4957#6140#0" />
+            <element signature="e#6183#7116#0" />
+            <element signature="e#7172#7768#0" />
+            <element signature="e#7838#10792#0" />
+            <element signature="e#10829#12377#0" />
+            <element signature="e#12380#12448#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -573,97 +617,11 @@
     <entry file="file://$PROJECT_DIR$/VigenereEncrypto.py" />
     <entry file="file://$PROJECT_DIR$/VigenereDecrypto.py" />
     <entry file="file://$PROJECT_DIR$/Vigenere.py" />
-    <entry file="file://$PROJECT_DIR$/reverseCipher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/V.py" />
-    <entry file="file://$PROJECT_DIR$/vigenereCipher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" selection-end-line="96" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Caesar_Cipher_Encrypt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Caesar_Cipher_Decrypt.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Caesar_Cipher_Brute_force.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transposition_Encrypt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transposition_Decrypt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transposition_Cipher_Hacker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transposition_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detectEnglish.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vigenere_Cipher_Encrypt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vigenere_Cipher_Decrypt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vigenere_Dictionary_Hacker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vigenereCipher.py" />
     <entry file="file://$PROJECT_DIR$/rabinMiller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
+        <state relative-caret-position="1037">
           <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
         </state>
       </provider>
@@ -678,14 +636,125 @@
     <entry file="file://$PROJECT_DIR$/makeRsaKeys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rsaCipher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2532">
+        <state relative-caret-position="632">
           <caret line="159" column="10" selection-start-line="159" selection-start-column="10" selection-end-line="159" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Caesar_Cipher_Encrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Caesar_Cipher_Decrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transposition_Decrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detectEnglish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transposition_Cipher_Hacker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverseCipher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Caesar_Cipher_Brute_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transposition_Encrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vigenere_Cipher_Decrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vigenere_Cipher_Encrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vigenere_Dictionary_Hacker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transposition_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/freqAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vigenereHacker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="258" column="10" lean-forward="true" selection-start-line="258" selection-start-column="10" selection-end-line="258" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#467#2880#0" />
+            <element signature="e#2929#4182#0" />
+            <element signature="e#4216#4868#0" />
+            <element signature="e#4901#4912#0" />
+            <element signature="e#4957#6140#0" />
+            <element signature="e#6183#7116#0" />
+            <element signature="e#7172#7768#0" />
+            <element signature="e#7838#10792#0" />
+            <element signature="e#10829#12377#0" />
+            <element signature="e#12380#12448#0" />
+          </folding>
         </state>
       </provider>
     </entry>
